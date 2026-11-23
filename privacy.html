@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Privacy e cookie · BIT</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#05080e">
+<link rel="icon" href="assets/favicon.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="legal-bg" aria-hidden="true"></div>
+  <div class="crt" aria-hidden="true"></div>
+  <header class="nav">
+    <a class="logo" href="index.html" aria-label="Torna al sito di BIT"><span class="led"></span>BIT<span class="dim">.EXE</span></a>
+    <nav><a href="index.html">← Torna al sito</a></nav>
+  </header>
+
+  <main class="legal-page">
+    <article class="win">
+      <div class="win-bar"><span>BIT.EXE · PRIVACY E COOKIE</span><i></i><i></i><i></i></div>
+      <div class="win-body">
+        <h2>Informativa privacy</h2>
+        <p>Questa informativa spiega quali dati vengono trattati quando visiti questo sito, ai sensi degli artt. 13 e 14 del Regolamento (UE) 2016/679 ("GDPR"). In breve: <b>il sito non usa cookie propri, non usa strumenti di statistica o profilazione e non chiede dati personali.</b></p>
+
+        <h2>Titolare del trattamento</h2>
+        <p>Il gestore del progetto BIT (progetto personale, non commerciale). Per qualsiasi richiesta, comprese quelle sulla privacy, puoi scrivere un messaggio privato a <a href="https://www.instagram.com/bit.online01/" target="_blank" rel="noopener">@bit.online01 su Instagram</a> o a <a href="https://www.tiktok.com/@bit.online" target="_blank" rel="noopener">@bit.online su TikTok</a>.</p>
+
+        <h2>Quali dati vengono trattati</h2>
+        <p><b>Dati di navigazione (hosting).</b> Il sito è ospitato su GitHub Pages, servizio di GitHub, Inc. (USA). Come ogni server web, quando apri una pagina GitHub registra in automatico dati tecnici come indirizzo IP, data e ora della richiesta, pagina richiesta e tipo di browser, per garantire il funzionamento e la sicurezza del servizio. Il titolare non usa questi dati per identificarti. Base giuridica: legittimo interesse al funzionamento e alla sicurezza del sito (art. 6.1.f GDPR). GitHub aderisce all'EU-U.S. Data Privacy Framework per i trasferimenti verso gli Stati Uniti. Maggiori informazioni: <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">informativa privacy di GitHub</a>.</p>
+        <p><b>Risorse ospitate sul sito.</b> Font (Montserrat, VT323) e la libreria 3D (three.js) sono caricati direttamente da questo sito: aprendo le pagine <b>non</b> vengono contattati Google Fonts o altre CDN.</p>
+        <p><b>Contatti.</b> Se scrivi un messaggio privato sui profili social indicati sopra, il gestore vede il tuo nome utente e il contenuto del messaggio, e li usa solo per risponderti. Il messaggio è conservato dalla piattaforma (Meta o TikTok) secondo le sue regole.</p>
+
+        <h2 id="terzi">Video di TikTok e Instagram</h2>
+        <p>Nella sezione "I video" ogni episodio mostra prima soltanto la copertina, salvata su questo sito. Il player della piattaforma viene caricato <b>solo se clicchi "Guarda qui"</b>. Da quel momento il servizio esterno riceve il tuo indirizzo IP e può impostare i propri cookie, secondo le sue condizioni:</p>
+        <div class="tbl"><table>
+          <tr><th>Servizio</th><th>Fornitore</th><th>Informative</th></tr>
+          <tr><td>Player TikTok</td><td>TikTok Technology Limited (Irlanda)</td><td><a href="https://www.tiktok.com/legal/page/eea/privacy-policy/it" target="_blank" rel="noopener">Privacy</a> · <a href="https://www.tiktok.com/legal/page/global/cookie-policy/it" target="_blank" rel="noopener">Cookie</a></td></tr>
+          <tr><td>Player Instagram</td><td>Meta Platforms Ireland Limited (Irlanda)</td><td><a href="https://privacycenter.instagram.com/policy" target="_blank" rel="noopener">Privacy</a> · <a href="https://privacycenter.instagram.com/policies/cookies/" target="_blank" rel="noopener">Cookie</a></td></tr>
+        </table></div>
+        <p>Se preferisci non caricare i player, usa i pulsanti "Apri su TikTok" e "Apri su Instagram", che ti portano direttamente sulle piattaforme.</p>
+
+        <h2>Cookie e archiviazione locale</h2>
+        <p>Il sito <b>non imposta cookie</b>. Solo se, prima di guardare un video, spunti "Ricorda la mia scelta su questo dispositivo", il browser salva in archiviazione locale (localStorage) la voce <code>bit-embed-consent</code>, che serve unicamente a non richiederti di nuovo il consenso. Non contiene dati personali e resta sul tuo dispositivo. Puoi cancellarla in qualsiasi momento:</p>
+        <p><button class="btn btn-sm" id="revoke" type="button">Revoca il consenso ai video</button> <span id="revokeMsg" class="dim"></span></p>
+
+        <h2>I tuoi diritti</h2>
+        <p>Puoi chiedere al titolare l'accesso ai tuoi dati, la rettifica, la cancellazione, la limitazione del trattamento e opporti al trattamento (artt. 15-22 GDPR), con un messaggio privato ai profili indicati sopra. Hai anche il diritto di proporre reclamo al <a href="https://www.garanteprivacy.it" target="_blank" rel="noopener">Garante per la protezione dei dati personali</a>.</p>
+
+        <h2>Link esterni</h2>
+        <p>I link verso TikTok, Instagram e altri siti portano a servizi di terzi, con le loro informative.</p>
+
+        <p class="dim">Ultimo aggiornamento: 23 novembre 2026</p>
+      </div>
+    </article>
+  </main>
+
+  <footer class="foot">
+    <span>© <span id="year"></span> BIT · sistema online</span>
+    <nav class="legal"><a href="privacy.html">Privacy e cookie</a><a href="note-legali.html">Note legali</a></nav>
+  </footer>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    document.getElementById('revoke').addEventListener('click', () => {
+      try { localStorage.removeItem('bit-embed-consent'); } catch (e) {}
+      document.getElementById('revokeMsg').textContent = 'Fatto: ti chiederemo di nuovo il consenso.';
+    });
+  </script>
+</body>
+</html>

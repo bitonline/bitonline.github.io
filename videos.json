@@ -1,0 +1,8 @@
+[
+  { "n": 1, "title": "Il cloud non esiste", "date": "2026-11-23", "duration": "1:26",
+    "cover": "assets/covers/cloud.jpg", "tiktok": "7711343837314174240", "instagram": "DgFWEkuAqMK" },
+  { "n": 2, "title": "Come viaggia un messaggio", "date": "2026-11-23", "duration": "1:43",
+    "cover": "assets/covers/whatsapp.jpg", "tiktok": "7711388653620137238", "instagram": "DgFsvMfR4sb" },
+  { "n": 3, "title": "Perché il Wi-Fi rallenta", "date": "2026-11-23", "duration": "1:33",
+    "cover": "assets/covers/wifi.jpg", "tiktok": "7711448889219386646", "instagram": "DgGHi3hxiX2" }
+]
