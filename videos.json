@@ -1,10 +1,92 @@
 [
-  {"n": 1, "title": "Il cloud non esiste", "date": "2026-11-23", "duration": "1:26", "cover": "assets/covers/cloud.jpg", "tiktok": "7711343837314174240", "instagram": "DgFWEkuAqMK", "desc": "Il cloud non è una nuvola: è un capannone pieno di computer accesi 24 ore su 24. BIT ti spiega dove finiscono davvero le tue foto e perché vengono copiate almeno tre volte."},
-  {"n": 2, "title": "Come viaggia un messaggio", "date": "2026-11-23", "duration": "1:43", "cover": "assets/covers/whatsapp.jpg", "tiktok": "7711388653620137238", "instagram": "DgFsvMfR4sb", "desc": "Cosa succede quando premi INVIO? Il viaggio di un messaggio WhatsApp tra Wi-Fi, fibra, cavi sottomarini e data center, spiegato da BIT in meno di due minuti."},
-  {"n": 3, "title": "Perché il Wi-Fi rallenta", "date": "2026-11-23", "duration": "1:33", "cover": "assets/covers/wifi.jpg", "tiktok": "7711448889219386646", "instagram": "DgGHi3hxiX2", "desc": "Perché il Wi-Fi rallenta quando arrivano gli ospiti? Radio, canali affollati, il microonde e la posizione del router: la matematica del Wi-Fi spiegata semplice."},
-  {"n": 4, "title": "GTA 6: perché è così enorme", "date": "2026-11-23", "duration": "2:04", "cover": "assets/covers/gta6.jpg", "tiktok": "7711481676144151830", "instagram": "DgGVuxxxQd9", "desc": "GTA 6 ha incassato 3,8 miliardi di dollari in un giorno. BIT ripercorre i record di GTA 5, il fenomeno di GTA Online, i trailer e i rinvii fino al lancio di GTA 6 a Vice City."},
-  {"n": 5, "title": "Black Friday: sconti veri?", "date": "2026-11-24", "duration": "1:19", "cover": "assets/covers/blackfriday.jpg", "tiktok": "7711646703689927958", "instagram": "DgHgLTjx2Uz", "desc": "Black Friday: sconti veri o finti? La regola dei 30 giorni, il trucco del prezzo gonfiato, i siti clone e tre regole per non farti fregare."},
-  {"n": 6, "title": "Il tuo telefono sente i terremoti", "date": "2026-11-24", "duration": "1:31", "cover": "assets/covers/terremoti.jpg", "tiktok": "7711662657539132675", "instagram": "DgHnV9vRxIz", "desc": "Dal 19 novembre 2026 gli smartphone Android in Italia avvisano dei terremoti. BIT spiega accelerometro, onde P e S e come l'allerta può arrivare prima della scossa."},
-  {"n": 7, "title": "Le app vedono le tue app?", "date": "2026-11-25", "duration": "1:43", "cover": "assets/covers/appspia.jpg", "tiktok": "7712113890842217750", "instagram": "DgKvL99x4J2", "desc": "Un'app può sapere quali altre app hai sul telefono? Le regole di Android 11, il permesso speciale di Google Play, il limite di 50 app su iPhone e come difenderti."},
-  {"n": 8, "title": "Come funziona un sito web?", "date": "2026-11-25", "duration": "2:08", "cover": "assets/covers/sitoweb.jpg", "tiktok": "7712134300853947670", "instagram": "DgK4iOzx984", "desc": "Dal primo sito del CERN nel 1991 al quasi miliardo e mezzo di oggi: BIT spiega DNS, HTTP e HTTPS, HTML, CSS e JavaScript, perché 3 secondi di caricamento sono troppi e l'IA che scrive codice."}
+ {
+  "n": 1,
+  "title": "Il cloud non esiste",
+  "date": "2026-11-23",
+  "duration": "1:26",
+  "cover": "assets/covers/cloud.jpg",
+  "tiktok": "7711343837314174240",
+  "instagram": "DgFWEkuAqMK",
+  "desc": "Il cloud non è una nuvola: è un capannone pieno di computer accesi 24 ore su 24. BIT ti spiega dove finiscono davvero le tue foto e perché vengono copiate almeno tre volte."
+ },
+ {
+  "n": 2,
+  "title": "Come viaggia un messaggio",
+  "date": "2026-11-23",
+  "duration": "1:43",
+  "cover": "assets/covers/whatsapp.jpg",
+  "tiktok": "7711388653620137238",
+  "instagram": "DgFsvMfR4sb",
+  "desc": "Cosa succede quando premi INVIO? Il viaggio di un messaggio WhatsApp tra Wi-Fi, fibra, cavi sottomarini e data center, spiegato da BIT in meno di due minuti."
+ },
+ {
+  "n": 3,
+  "title": "Perché il Wi-Fi rallenta",
+  "date": "2026-11-23",
+  "duration": "1:33",
+  "cover": "assets/covers/wifi.jpg",
+  "tiktok": "7711448889219386646",
+  "instagram": "DgGHi3hxiX2",
+  "desc": "Perché il Wi-Fi rallenta quando arrivano gli ospiti? Radio, canali affollati, il microonde e la posizione del router: la matematica del Wi-Fi spiegata semplice."
+ },
+ {
+  "n": 4,
+  "title": "GTA 6: perché è così enorme",
+  "date": "2026-11-23",
+  "duration": "2:04",
+  "cover": "assets/covers/gta6.jpg",
+  "tiktok": "7711481676144151830",
+  "instagram": "DgGVuxxxQd9",
+  "desc": "GTA 6 ha incassato 3,8 miliardi di dollari in un giorno. BIT ripercorre i record di GTA 5, il fenomeno di GTA Online, i trailer e i rinvii fino al lancio di GTA 6 a Vice City."
+ },
+ {
+  "n": 5,
+  "title": "Black Friday: sconti veri?",
+  "date": "2026-11-24",
+  "duration": "1:19",
+  "cover": "assets/covers/blackfriday.jpg",
+  "tiktok": "7711646703689927958",
+  "instagram": "DgHgLTjx2Uz",
+  "desc": "Black Friday: sconti veri o finti? La regola dei 30 giorni, il trucco del prezzo gonfiato, i siti clone e tre regole per non farti fregare."
+ },
+ {
+  "n": 6,
+  "title": "Il tuo telefono sente i terremoti",
+  "date": "2026-11-24",
+  "duration": "1:31",
+  "cover": "assets/covers/terremoti.jpg",
+  "tiktok": "7711662657539132675",
+  "instagram": "DgHnV9vRxIz",
+  "desc": "Dal 19 novembre 2026 gli smartphone Android in Italia avvisano dei terremoti. BIT spiega accelerometro, onde P e S e come l'allerta può arrivare prima della scossa."
+ },
+ {
+  "n": 7,
+  "title": "Le app vedono le tue app?",
+  "date": "2026-11-25",
+  "duration": "1:43",
+  "cover": "assets/covers/appspia.jpg",
+  "tiktok": "7712113890842217750",
+  "instagram": "DgKvL99x4J2",
+  "desc": "Un'app può sapere quali altre app hai sul telefono? Le regole di Android 11, il permesso speciale di Google Play, il limite di 50 app su iPhone e come difenderti."
+ },
+ {
+  "n": 8,
+  "title": "Come funziona un sito web?",
+  "date": "2026-11-25",
+  "duration": "2:08",
+  "cover": "assets/covers/sitoweb.jpg",
+  "tiktok": "7712134300853947670",
+  "instagram": "DgK4iOzx984",
+  "desc": "Dal primo sito del CERN nel 1991 al quasi miliardo e mezzo di oggi: BIT spiega DNS, HTTP e HTTPS, HTML, CSS e JavaScript, perché 3 secondi di caricamento sono troppi e l'IA che scrive codice."
+ },
+ {
+  "n": 9,
+  "title": "GTA 6 su PC: cosa sta succedendo?",
+  "date": "2026-11-27",
+  "duration": "1:19",
+  "cover": "assets/covers/gta6pc.jpg",
+  "tiktok": "7712810472705248534",
+  "instagram": "DgPk7KVxgNA",
+  "desc": "GTA 6 è uscito solo per console, eppure su PC c'è chi ci gioca: BIT spiega come è nato il fenomeno dei port non ufficiali, la versione Xbox trapelata, l'emulazione e perché i falsi \"GTA 6 per PC\" sono quasi sempre malware."
+ }
 ]

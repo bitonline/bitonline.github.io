@@ -2,8 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://bitonline.github.io/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <image:image><image:loc>https://bitonline.github.io/assets/og.jpg</image:loc></image:image>
+    <image:image><image:loc>https://bitonline.github.io/assets/covers/gta6pc.jpg</image:loc></image:image>
     <image:image><image:loc>https://bitonline.github.io/assets/covers/sitoweb.jpg</image:loc></image:image>
     <image:image><image:loc>https://bitonline.github.io/assets/covers/appspia.jpg</image:loc></image:image>
     <image:image><image:loc>https://bitonline.github.io/assets/covers/terremoti.jpg</image:loc></image:image>
